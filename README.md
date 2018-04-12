@@ -2,7 +2,7 @@
 
 Game Time is the first project in Module 2 for Frontend Development at Turing School of Software and Design. 
 [Project Specification](http://frontend.turing.io/projects/game-time.html)
-[Starter Kit Repository](https://github.com/turingschool-examples/game-time-starter-kit-FEm1) which contains webkit and instructions for setting up testing in mocha.
+[Starter Kit Repository](https://github.com/turingschool-examples/game-time-starter-kit-FEm1) which contains webkit and instructions for setting up testing in mocha. To play the game, visit our live link [here](http://casey-dallavalle-spacehopper.surge.sh/).
 
 ## Game Inspiration: Winterbells
 The game we replicate is [Winterbells](http://www.ferryhalim.com/orisinal/g3/bells.htm). 
